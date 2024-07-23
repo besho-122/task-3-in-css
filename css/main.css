@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+}
+a{
+    padding: 15px;
+}
+.nav{
+   padding-top: 10px;
+}
+.nav2{
+    margin-right: 130px;
+    float: right;
+padding-right: 20px;
+    
+}
+body{
+    background-color:rgb(211, 211, 211);
+}
+
+.nav1{
+    padding-left: 20px;
+    float: left;
+}
+.clr{
+    clear: both;
+}
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-size: 28px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+h2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: rgb(36, 35, 35);
+    color: white;
+    font-size: 19px;
+    border-radius: 10px;
+    margin-bottom: 15px; 
+}
+.parg{
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #f2f2f2;
+    color: black;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+
+}
+.iphoneimg{
+    width: 70%;
+    height: 50%;
+    margin: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.iPhone{
+    width: 100%;
+ 
+}
+.iphone15pro, .iphone15 ,.iphone14 ,.iphonese{
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 20px;
+    float: left;
+    padding: 10px 20px;
+    border: 4px solid black;
+
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 20px;
+
+}
+.ipadimg{
+    width: 85%;
+    height: 50%;
+    margin: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.iPad{
+    width: 100%;
+ 
+}
+.ipadpro, .ipadair ,.ipadmini,.ipad {
+    text-align: center;
+    width: 20%;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 10px;
+    float: left;
+    padding: 10px 30px ;
+    border: 4px solid black;
+
+}
+s{
+    color: red;
+}
+.macimg{
+    width: 85%;
+    height: 50%;
+    margin: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.Mac{
+    width: 100%;
+ 
+}
+.macairm2, .macairm3  {
+    text-align: center;
+    width: 45%;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 10px;
+    float: left;
+    padding: 10px 30px ;
+    border: 4px solid black;
+
+}
+.waimg{
+    width: 85%;
+    height: 50%;
+    margin: 20px;
+    float: left;
+    padding: 10px;
+}
+
+.Watch{
+    width: 100%;
+ 
+}
+.appleWatchse, .appleWatchseries9,.appleWatchultra2{
+    text-align: center;
+    width: 20%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin:15px;
+    float: left;
+    padding: 10px 100px ;
+    border: 4px solid black;
+
+}
+.aboutus{
+    padding-top: 10px;
+ }
+ .aboutus2{
+     margin-right: 130px;
+     float: right;
+ padding-right: 20px;
+     
+ }
+ .aboutus1{
+     padding-left: 20px;
+     float: left;
+ }
